@@ -1,0 +1,184 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 64,
+   "id": "9087e049-3404-4730-af94-a4138b06e1fa",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdin",
+     "output_type": "stream",
+     "text": [
+      "Enter the age 21\n"
+     ]
+    }
+   ],
+   "source": [
+    "age=int (input(\"Enter the age\"))"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 66,
+   "id": "a5318377-8c23-4bb8-9a2a-cf414529297a",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "if(age==18):\n",
+    "    print(\"adult\")\n",
+    "        "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 28,
+   "id": "0a322623-4da5-46f6-b1a3-41f2aecebba6",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdin",
+     "output_type": "stream",
+     "text": [
+      "Enter the num1: 34\n"
+     ]
+    }
+   ],
+   "source": [
+    "num1=int (input(\"Enter the num1:\"))"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 32,
+   "id": "5fc97ff8-be36-4be5-af6e-efab699a50b2",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdin",
+     "output_type": "stream",
+     "text": [
+      "Enter the num2: 12\n"
+     ]
+    }
+   ],
+   "source": [
+    "num2=int (input(\"Enter the num2:\"))"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 38,
+   "id": "42bb348d-9623-424c-8d09-32afd84bfcac",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "mul=num1*num2"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 40,
+   "id": "f79d044c-4f7b-4c60-bb4d-98bdc3d3df7a",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "mul\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(\"mul\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 42,
+   "id": "a43fc1da-7f03-450e-99a8-b243829cc489",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "408\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(mul)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 56,
+   "id": "e2234615-a999-4953-be82-872423313c1c",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdin",
+     "output_type": "stream",
+     "text": [
+      "Enter the age: 5\n"
+     ]
+    }
+   ],
+   "source": [
+    "age=int (input(\"Enter the age:\"))"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 58,
+   "id": "9e140786-6c28-48a7-af91-cf1086b85ef1",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Children\n"
+     ]
+    }
+   ],
+   "source": [
+    "if(age>=18):\n",
+    "    print(\"Adult\")\n",
+    "else:\n",
+    "    print(\"Children\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "7f3cd1c7-0a4b-4e25-b15c-055b57dd2af0",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.12.7"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}

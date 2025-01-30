@@ -1,0 +1,159 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "id": "0fa1b0fd-92d5-4639-9fb8-aed16522e674",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "HOPE AI\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(\"HOPE AI\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "b3c36551-4f62-4d41-9e79-0b324a7b6292",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "Name=input(\"Enter your institute name?:\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "7c3159ca-1602-4deb-88f1-4e66acd36337",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "Name=input(\"Enter your name:\")\n",
+    "Age=input(\"Enter your age:\")\n",
+    "School=input(\"Enter your school name:\")\n",
+    "Degree=input(\"Enter your drgree:\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "d54c150f-237a-4daa-87b1-a9e405d255d4",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "a=43\n",
+    "b=34\n",
+    "add=(a+b)\n",
+    "print(\"a=\",a)\n",
+    "print(\"b=\",b)\n",
+    "print(\"add=\",add)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "36dd9cbe-db58-463a-84e8-b2b214fcc983",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "a=43\n",
+    "b=34\n",
+    "sub=a-b\n",
+    "print(\"a=\",a)\n",
+    "print(\"b=\",b)\n",
+    "print(\"sub=\",sub)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "af7eec1b-fd07-4723-8d05-03c34732ee8c",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "a=63\n",
+    "b=97\n",
+    "mul=a*b\n",
+    "print(\"a=\",a)\n",
+    "print(\"b=\",b)\n",
+    "print(\"mul=\",mul)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "8769ee90-d497-4799-8c5a-bc3ba75c8cca",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "a=76\n",
+    "b=31\n",
+    "div=a/b\n",
+    "print(\"a=\",a)\n",
+    "print(\"b=\",b)\n",
+    "print(\"Float Div=\",div)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "4624c60e-e36f-4059-bc02-7292cadc28ca",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "a=76\n",
+    "b=31\n",
+    "div=a//b\n",
+    "print(\"a=\",a)\n",
+    "print(\"b=\",b)\n",
+    "print(\"Floor DIv=\",div)\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "bc6454bc-7341-4f30-82eb-f9b6af317ae2",
+   "metadata": {
+    "jp-MarkdownHeadingCollapsed": true
+   },
+   "source": [
+    "###### "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "5e0979f1-88cd-4be1-872f-9f1f43a694bd",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.12.7"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
